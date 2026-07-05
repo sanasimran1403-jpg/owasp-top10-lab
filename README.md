@@ -85,7 +85,7 @@ DVWA Security → Low → Submit
 admin : 5f4dcc3b5aa765d61d8327deb882cf99 → password
 ```
 
-📸 Screenshots: `screenshots/sqli/`
+ Screenshots: `screenshots/sqli/`
 
 ---
 
@@ -311,10 +311,10 @@ owasp-top10-lab/
 ##  Author
 
 **Sana Simran**
-- 🌐 Portfolio: [sanasimran.github.io](https://sanasimran1403-jpg.github.io)
-- 💼 LinkedIn: [linkedin.com/in/sanasimran](https://linkedin.com/in/sanasimran)
-- 🐙 GitHub: [@sanasimran1403-jpg](https://github.com/sanasimran1403-jpg)
+-  Portfolio: [sanasimran.github.io](https://sanasimran1403-jpg.github.io)
+-  LinkedIn: [linkedin.com/in/sanasimran](www.linkedin.com/in/sanasimrannn)
+-  GitHub: [@sanasimran1403-jpg](https://github.com/sanasimran1403-jpg)
 
 ---
 
-> ⚠️ **Disclaimer:** This lab is strictly for educational purposes. All attacks were performed on intentionally vulnerable software in an isolated local environment. Never use these techniques on systems you do not own or have explicit permission to test.
+>  **Disclaimer:** This lab is strictly for educational purposes. All attacks were performed on intentionally vulnerable software in an isolated local environment. Never use these techniques on systems you do not own or have explicit permission to test.
